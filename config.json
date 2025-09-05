@@ -1,0 +1,14 @@
+{
+  "url": "https://lzt.market/user/419658/items",
+  "interval": 60,
+  "bot_token": "8283395405:AAFNyzWlWsNyUm-_peZZpuDTZMBAGOWgXhs",
+  "chat_id": "5952347965",
+  "item_id": 0,
+  "autostart": true,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+  "itemID": 0,
+  "check_interval": 61,
+  "telegram_bot_token": "8283395405:AAFNyzWlWsNyUm-_peZZpuDTZMBAGOWgXhs",
+  "telegram_chat_id": "5952347965",
+  "headless": true
+}
