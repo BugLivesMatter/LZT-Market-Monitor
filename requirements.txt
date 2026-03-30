@@ -1,4 +1,6 @@
 requests
 selenium
 beautifulsoup4
+pystray
+pillow
 PyQt5
